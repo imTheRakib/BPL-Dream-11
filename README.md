@@ -2,6 +2,8 @@
 
 A fantasy cricket landing page where you claim free coins, browse available players, and build a squad of up to six. Built with React, Tailwind CSS and DaisyUI from a Figma design.
 
+**🔗 Live demo:** [bpl-dream-11-black.vercel.app](https://bpl-dream-11-black.vercel.app/)
+
 ## Features
 
 - **Claim free credit** – the hero button adds 6,000,000 coins; the balance is shown in the navbar.
